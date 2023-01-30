@@ -1,8 +1,8 @@
 {
   "name": "com.alreylz.utils",
   "version": "0.1.0",
-  "displayName": "alreylz Utils package",
-  "description": "This is an example package",
+  "displayName": "Alejandro Rey Utils package",
+  "description": "alreylz's Unity utils package",
   "unity": "2020.3",
   "documentationUrl": "https://github.com/coredamnwork/alreylz.utils",
   "changelogUrl": "https://github.com/coredamnwork/alreylz.utils",
@@ -16,7 +16,7 @@
     "que tal"
   ],
   "author": {
-    "name": "alreylz",
+    "name": "Alejandro Rey",
     "email": "alejandro.rey@uc3m.es",
     "url": "https://github.com/coredamnwork/alreylz.utils"
   }
