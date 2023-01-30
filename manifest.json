@@ -8,7 +8,8 @@
   "changelogUrl": "https://github.com/coredamnwork/alreylz.utils",
   "licensesUrl": "https://github.com/coredamnwork/alreylz.utils",
   "dependencies": {
-    "com.unity.textmeshpro": "3.0.6"
+    "com.unity.textmeshpro": "3.0.6",
+    "com.alreylz.utils": "git@github.com:coredamnwork/alreylz.utils.git"
   },
   "keywords": [
     "hola",
