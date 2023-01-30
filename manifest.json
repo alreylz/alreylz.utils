@@ -1,0 +1,23 @@
+{
+  "name": "com.alreylz.utils",
+  "version": "0.1.0",
+  "displayName": "alreylz Utils package",
+  "description": "This is an example package",
+  "unity": "2020.3",
+  "documentationUrl": "https://github.com/coredamnwork/alreylz.utils",
+  "changelogUrl": "https://github.com/coredamnwork/alreylz.utils",
+  "licensesUrl": "https://github.com/coredamnwork/alreylz.utils",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "keywords": [
+    "hola",
+    "buenas",
+    "que tal"
+  ],
+  "author": {
+    "name": "alreylz",
+    "email": "alejandro.rey@uc3m.es",
+    "url": "https://github.com/coredamnwork/alreylz.utils"
+  }
+}
